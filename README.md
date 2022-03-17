@@ -28,33 +28,53 @@
 
 **Conteúdos:**
 1) Introdução ao Sistema dos PCs.
+
 a) Computadores Pessoais
+
 b) Gabinetes e Fontes de Alimentação
+
 c) Componentes Internos do PC
+
 i) Placas-mãe
+
 ii) Arquiteturas de CPU
 iii) Sistemas de Refrigeração
 iv) ROM
 v) RAM
 vi) Módulos de Memória
+
 vii)Placas e Slots de Expansão
+
 viii)Dispositivos de armazenamento
+
 d) Portas de Saída e Cabos
+
 e) Dispositivos de Entrada e Saída
+
 2) Montagem de Computadores.
-3) Visão Geral de Manutenção Preventiva.
+
+4) Visão Geral de Manutenção Preventiva.
+
 a) O processo de identificação e solução de problemas
+
 b) Problemas e soluções comuns
 
 
 4) Conceitos básicos de Redes.
 a) Tipos de Redes
+
 b) Modelos de Referência
+
 c) Componentes Físicos de uma rede
+
 5) Dispositivos Móveis e Notebooks.
+
 a) Componentes do Notebook
+
 b) Hardware do Notebook e a configuração e instalação de componentes
+
 c) Visão Geral do Hardware de Dispositivos Móveis
+
 d) Técnicas comuns de manutenção preventiva
 
 **Metodologia de Ensino:**
