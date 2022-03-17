@@ -3,9 +3,11 @@
 **Carga Horária:** 80 horas
 
 **Ementa:**
+
 ● Introdução ao Sistema dos PCs. Montagem de Computadores. Visão Geral de Manutenção Preventiva. Conceitos básicos de Redes. Dispositivos Móveis e Notebooks. Impressoras.
 
 **Objetivos:**
+
 ● Conhecer os principais componentes de um computador
 
 ● Descrever as funções dos componentes de um computador
